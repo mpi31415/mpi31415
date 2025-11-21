@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi, I’m Maximilian Ponomarev — a Mathematics student at TUM with a strong 
+interest in quantitative methods, data analysis, and applied problem-solving.
 
-<!--
-**mpi31415/mpi31415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+On this GitHub you’ll find a selection of small analytical projects, 
+prototypes, and algorithmic experiments from my studies and personal work. 
+I enjoy working with structured data, exploring patterns, and building 
+clean, reproducible workflows.
 
-Here are some ideas to get you started:
+Currently, I’m gaining experience in areas ranging from statistical 
+modelling to practical software tools used in quantitative and 
+actuarial contexts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact: maximilian.ponomarev@gmail.com
